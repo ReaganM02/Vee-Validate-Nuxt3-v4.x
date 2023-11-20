@@ -1,75 +1,15 @@
-# Nuxt 3 Minimal Starter
+# Vee-Validate v4.x on Nuxt3
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Incorporating vee-validate into Nuxt 3 and setting up a straightforward configuration for a multi-step form, complete with essential input types such as text, file, and checkboxes. Each component is designed for reusability.
 
-## Setup
-
-Make sure to install the dependencies:
-
+### Install Nuxt Vee-validate
 ```bash
 # npm
-npm install
+npm i @vee-validate/nuxt
 
 # pnpm
-pnpm install
+pnpm add @vee-validate/nuxt
 
 # yarn
-yarn install
-
-# bun
-bun install
+yarn add @vee-validate/nuxt 
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
