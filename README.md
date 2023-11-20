@@ -16,3 +16,4 @@ yarn add @vee-validate/nuxt
 
 ## Live Demo
 [![Video](/public//preview.jpg)](/public/preview.mp4)
+[Download MP4](/public/preview.mp4)
