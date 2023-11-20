@@ -27,28 +27,16 @@ function createAnAccount (formData: object) {
   }, 2000)
 }
 
-/*
-CPU - 125595 ,
-Motherboard - 12995
-GPU - 34995 - 3 fans 31995 dual
-RAM - GSkill 3600  - 5995
-SSD - 3495
-PSU - 6495
-Daskflash dlx21 - 4195
-
-09173141342
-
-*/
-
 
 </script>
 <template>
   <div class="h-screen grid place-items-center">
     <div class="w-full max-w-xl rounded">
       <h1 class="text-[30px] font-bold text-zinc-800 text-center">
-        Composition API
+        Nuxt Vee-Validate v4.x
       </h1>
-      <div>
+      <p class="text-center text-zinc-500">Multi-step form with basic fields, file, and a checkbox validation.</p>
+      <div class="mt-8">
         <FormWizard
           :validation-schema="schema"
           :loading="loading"
