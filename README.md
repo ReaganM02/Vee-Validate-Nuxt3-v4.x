@@ -15,4 +15,4 @@ yarn add @vee-validate/nuxt
 ```
 
 ## Live Demo
-https://github.com/ReaganM02/Vee-Validate-Nuxt3-v4.x/blob/main/public/preview.mp4
+[![Video](/public/preview.jpg)](https://github.com/ReaganM02/Vee-Validate-Nuxt3-v4.x/assets/21333078/cb954072-38a5-422f-949a-d5ca6b0332b5)
