@@ -13,3 +13,6 @@ pnpm add @vee-validate/nuxt
 # yarn
 yarn add @vee-validate/nuxt 
 ```
+
+## Live Demo
+[![Video](/public//preview.jpg)](/public/preview.mp4)
